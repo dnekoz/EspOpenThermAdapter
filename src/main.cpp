@@ -1,5 +1,4 @@
 #include "Wire.h"
-#include <PubSubClient.h>
 #include <ESP8266WiFi.h>
 
 void setup()
